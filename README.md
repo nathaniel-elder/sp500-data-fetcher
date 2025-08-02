@@ -13,7 +13,7 @@ This script fetches the company ticker, current market capitalization (in millio
    git clone https://github.com/yourusername/sp500-data-fetcher.git
    cd sp500-data-fetcher
 
-2. Install the required Python packages:
+4. Install the required Python packages:
    pip install -r requirements.txt
 
 ## Usage
