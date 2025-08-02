@@ -11,7 +11,7 @@ This script fetches the company ticker, current market capitalization (in millio
 
 1. Clone this repository:
 
-```git clone https://github.com/yourusername/sp500-data-fetcher.git```
+```git clone https://github.com/nathaniel-elder/sp500-data-fetcher.git```
 
 ```cd sp500-data-fetcher```
 
