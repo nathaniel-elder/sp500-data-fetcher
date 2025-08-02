@@ -10,16 +10,19 @@ This script fetches the company ticker, current market capitalization (in millio
 ## Installation
 
 1. Clone this repository:
-   ```git clone https://github.com/yourusername/sp500-data-fetcher.git
-   cd sp500-data-fetcher```
 
-4. Install the required Python packages:
-   ```pip install -r requirements.txt```
+```git clone https://github.com/yourusername/sp500-data-fetcher.git```
+```cd sp500-data-fetcher```
+
+2. Install the required Python packages:
+
+```pip install -r requirements.txt```
 
 ## Usage
 
 1. Run the script:
-   ```python sp500_data_to_csv.py```
+
+```python sp500_data_to_csv.py```
 
 The output will be saved as "sp500_market_caps.csv" in the same directory.
 
