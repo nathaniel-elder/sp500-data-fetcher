@@ -23,7 +23,7 @@ This script fetches the company ticker, current market capitalization (in millio
 
 1. Run the script:
 
-```python sp500_data_to_csv.py```
+```python3 sp500_data_to_csv.py```
 
 The output will be saved as "sp500_market_caps.csv" in the same directory.
 
