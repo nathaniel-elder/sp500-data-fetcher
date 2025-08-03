@@ -5,7 +5,6 @@ This script fetches the company ticker, current market capitalization (in millio
 ## Requirements
 
 - Python 3.7 or higher
-- Internet connection (to fetch data from Yahoo Finance and Wikipedia)
 
 ## Installation
 
